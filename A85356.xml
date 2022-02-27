@@ -1,0 +1,924 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good news from Nevv-England: with an exact relation of the first planting that countrey : a description of the profits accruing by the worke. Together with a briefe, but true discovery of their order both in church and common-wealth, and maintenance allowed the painfull labourers in that vineyard of the Lord. With the names of the severall towns, and who be preachers to them.</title>
+            <author>Winslow, Edward, 1595-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85356</idno>
+            <idno type="STC">Wing G1062</idno>
+            <idno type="STC">Thomason E431_21</idno>
+            <idno type="STC">ESTC R8856</idno>
+            <idno type="EEBO-CITATION">99873425</idno>
+            <idno type="PROQUEST">99873425</idno>
+            <idno type="VID">125896</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125896)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E431[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good news from Nevv-England: with an exact relation of the first planting that countrey : a description of the profits accruing by the worke. Together with a briefe, but true discovery of their order both in church and common-wealth, and maintenance allowed the painfull labourers in that vineyard of the Lord. With the names of the severall towns, and who be preachers to them.</title>
+                  <author>Winslow, Edward, 1595-1655.</author>
+               </titleStmt>
+               <extent>[2], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mainly in verse.</note>
+                  <note>Annotation on Thomason copy: "March 10th"; the 8 in the imprint date is crossed out and replaced with "7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pilgrims (New Plymouth Colony) --  Early works to 1800.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125896:1" rendition="simple:additions"/>
+            <p>Good news from NEVV-ENGLAND: <hi>WITH</hi> An exact relation of the firſt plan<g ref="char:EOLhyphen"/>ting that Countrey: A deſcription of the profits accruing by the Worke. Together with a briefe, but true diſcovery of their Order both in Church and Common-wealth, and maintenance al<g ref="char:EOLhyphen"/>lowed the painfull Labourers in that Vineyard of the LORD. <hi>WITH</hi> The names of the ſeverall Towns, and who be Preachers to THEM.</p>
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>Matthew Simmons,</hi> 1648.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:125896:2"/>
+            <head>A New Relation by Obſervation, and ſerious Cogitation touching the Tranſplan<g ref="char:EOLhyphen"/>tation of our Engliſh Nation.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O ſpend no time in complement honeſt <hi>John,</hi> caſt not away theſe lines, becauſe the meeter and ruſticall harmony rings but rudely without rhe<g ref="char:EOLhyphen"/>torick, let me lead thy affections to theſe follow<g ref="char:EOLhyphen"/>ing premiſes: ſuppoſe thou ſee thy face not ſo amiable as thy fancy deemes it to be, fling not furiouſly to breake the glaſſe, moderate thy anger, and I have my deſire. Miſſe not my meaning, by turning my diſcourſe to perſo<g ref="char:EOLhyphen"/>nate any, but many: Its paſt my intention to leſſen or inlarge for favour or affection. Applauſe I looke not for: ſome Latine and E<g ref="char:EOLhyphen"/>loquent phraſes I have pickt from others, as commonly clowns uſe to doe, yet be ſure I am not in jeſt: for the ſubject I write of re<g ref="char:EOLhyphen"/>quires in many particulars the moſt ſolemn and ſerious meditation that ever any of like nature have done. Favour my clown-ſhip if I prove too harſh, and I ſhall remaine yours.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:125896:2"/>
+            <head>Of the reaſons moving this people to tranſplant themſelves and Families to thoſe remote parts.</head>
+            <lg>
+               <l>THe great <hi>Jehova's</hi> working word effecting wondrouſly,</l>
+               <l>This earths vaſt globe, thoſe parts unknown, to civill people by,</l>
+               <l>Columbus or <hi>Alkmerricus</hi> by providence direction,</l>
+               <l>Found out this Weſtern world with ſtore of mettels cleer extraction.</l>
+               <l>The Spaniſh project working well, tooke ſudden ſuch impreſſion</l>
+               <l>In minds of many <hi>Europe</hi> held, who fell to like progreſſion.</l>
+               <l>It's ſtrange to ſee the <hi>Spaniſh</hi> fleete ſo many ſhould provoke,</l>
+               <l>In <hi>Engliſh</hi> ſearching for like prize, they are vaniſht into ſmoake.</l>
+               <l>Yet theſe undaunted hearts ſtir'd up a Colony to plant,</l>
+               <l>Hight Nova Anglia, for which they gain'd a patten grant.</l>
+               <l>Now all ancient ſeild and read in lands new population,</l>
+               <l>No parallell like this (I deeme) you'l finde in any Nation.</l>
+               <l>Theſe people now begin with care to veſe and plot, each man</l>
+               <l>That heares of this new Colony, with diligence doth ſcan.</l>
+               <l>Such motives as he hath in Eye, one he deſires land,</l>
+               <l>Quoth he I ſee here landed men in reputation ſtand.</l>
+               <l>Hundreds and thouſands I have not to purchaſe, but I will</l>
+               <l>Through ſeas much wood-land to atchieve, and medow ground my fill.</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>p ſtarts another from a ſad and ſerious contemplation,</l>
+               <l>How he a Gentleman might be, good man is his vexation.</l>
+               <l>Houſe implements being turn'd to coyne, his cloath of faſhion new,</l>
+               <l>To ſhip he hyes, much welcome Sir, for none his perſon knew.</l>
+               <l>New rais'd from ſleepe, another cries, my earnings are but ſmall,</l>
+               <l>I'le venter to this new-found world, and make amends for all.</l>
+               <l>In haſt halfe breathleſſe running, comes a man with longing ſore</l>
+               <l>For novelties of new-found lands, the Seas he would leap o're.</l>
+               <l>His kindreds letters looking in, ha ha here's newes indeed,</l>
+               <l>From Brothers, Siſters, <g ref="char:V">Ʋ</g>ncles, Aunts, I'le ſhip my ſelfe with ſpeed.</l>
+               <l>Theſe but the ſtraglers now remaines the chiefeſt troopes to eye,</l>
+               <l>Truth 'tis, their ſtandard of reſort was Chriſtianity.</l>
+               <pb n="2" facs="tcp:125896:3"/>
+               <l>Couragious Captaines leading on, their coynes and lands 'way throwing,</l>
+               <l>Made many Souldiers follow faſt, their bands in number growing.</l>
+               <l>When <hi>England</hi> by <hi>Elizabeth</hi> began a Reformation,</l>
+               <l>It was a joyfull day to all, the godly of that Nation.</l>
+               <l>
+                  <hi>Proh Dolor,</hi> it did not goe on, with joyfull acclamation.</l>
+               <l>But hirarchy and lordly throne of Prelacy invading,</l>
+               <l>The government of Chriſts deare flocke, then godlineſſe was fading,</l>
+               <l>Some men impute it to the pride of Biſhops, others ſay,</l>
+               <l>The looſeneſſe of the Laity did carry moſt away.</l>
+               <l>But ſure it is that godlineſſe, and purities deriding,</l>
+               <l>Mov'd many godly ones to ſeek, a place of new abiding.</l>
+               <l>Proud Biſhops skil'd in policie of machivilian learning,</l>
+               <l>Fore-ſaw their pomp would fall to ground by Scripture cleer diſcerning,</l>
+               <l>New fangled fetches were devis'd for ſoone intrapping thoſe</l>
+               <l>Who to the people faithfully truth wholly did diſcloſe.</l>
+               <l>While things thus craftly were contriv'd, Preachers to priſons packe,</l>
+               <l>The Biſhops Courts were fill'd with worke, and conſciences on racke.</l>
+               <l>Come ſirrah quoth the Commiſſary, you will no Surplice weare,</l>
+               <l>Nor yet proclaime our Sunday ſports, a Puritan I feare</l>
+               <l>You are, and ſhall no more preach forth to people ſtir to reare</l>
+               <l>Againſt my Lords grace, I know well, your preaching doth him ſcare.</l>
+               <l>And to another: as for you, your faction is ſo much,</l>
+               <l>Whole townes run from their Pariſh Church to heare your word, are ſuch.</l>
+               <l>As for to overthrow my Lord, and his commanding power,</l>
+               <l>If I live in this Dioceſſe, you ſhall not ſtand one houre.</l>
+               <l>In midſt of all theſe wofull ſtirs grave godly men ſit muſing,</l>
+               <l>How they their talents might improve, to honour God in uſing.</l>
+               <l>Nine hundred leagues of roaring ſeas diſhearten feeble parts,</l>
+               <l>Till cruell handling haſten on, and God doth ſtrengthen hearts.</l>
+               <l>Come quoth the husband, my deare wife, canſt thou the ſeas endure,</l>
+               <l>With all our young and tender babes, let's put our faith in ure.</l>
+               <l>With watry eyes the wife replies, what remedie remaines,</l>
+               <l>Forſaking all for Chriſt his ſake, will prove the greateſt gaines.</l>
+               <l>From in-land parts poore Chriſtians packe to Sea-ports ſhips to enter,</l>
+               <l>A wonderment, in ſtreets they paſſe, dividing their ſtrange venter.</l>
+               <l>What meane theſe mad men ſoone ſayes one, witleſſe to run away,</l>
+               <l>From <hi>Engliſh</hi> beere, to water, where, no hoone companions ſtay,</l>
+               <l>But its the Surplice ſcares them hence, the Tippet and the Croſſe,</l>
+               <l>Nay more they feare, my Lords grace here, will bring againe the maſſe.</l>
+               <pb n="3" facs="tcp:125896:3"/>
+               <l>Yea further I have heard of late our Puritans much wonder,</l>
+               <l>Becauſe our Metropolitan intends to bring them under:</l>
+               <l>Thus paſſe the people to their ſhips, ſome grieve they ſhould goe free,</l>
+               <l>But make them ſweare, and ſearch them bare, taking what coyne they ſee.</l>
+               <l>Now Satan ſeeing God had croſt, his minde in making way,</l>
+               <l>For's people and his Paſtors too, in wilderneſſe to ſtay.</l>
+               <l>Fearing Chriſts Kingdom would encreaſe, and his to ground be falling,</l>
+               <l>Stirs up freſh inſtruments like ſheepe that wolfiſhly were haling.</l>
+               <l>Proud errour brochers, theſe croud in for liberty pretending,</l>
+               <l>The overthrow of <hi>Romiſh</hi> traſh, their words againſt it bending.</l>
+               <l>Quoth one here none but Scholler may in pulpit be a Preacher,</l>
+               <l>Pleſhip my ſelfe, for ſure I am, full gifted for a Teacher.</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>p ſtarts another from a crowd, of women, her admiring,</l>
+               <l>An able tongue in Scripture learn'd, to preach forſooth deſiring.</l>
+               <l>With revelations ſtrange, yet true, as Scripture them accounting,</l>
+               <l>Another comes to ſhip himſelfe, in knowledge all ſurmounting.</l>
+               <l>'Gainſt Magiſtrates another cries, none ſuch on earth ſhould ſtand,</l>
+               <l>I'le venture o're the broadeſt Seas for freedome from their hand.</l>
+               <l>Thus diver ſly diſpos'd doe people pack up away,</l>
+               <l>To populate new Collonies, where none but Heathen ſtay.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of the Tranſportation of people and goods to the Mat<g ref="char:EOLhyphen"/>tachuſets bay, and other adjacent Collonies.</head>
+            <lg>
+               <l>VVHen as this people thus reſolv'd the Ocean Sea to venter,</l>
+               <l>As was their errant, ſo they did addreſſe the ſhips to enter.</l>
+               <l>Ship-owners ſeeing like it was their gain might holpen bee</l>
+               <l>And <g ref="char:V">Ʋ</g>ndertakers with like hope, to hire ſhips were free.</l>
+               <l>Cloſe Cabbins being now prepar'd with bread, biefe, beere and fiſh,</l>
+               <l>The paſſengers prepare themſelves that they may have their wiſh.</l>
+               <l>With little goods, but many words, aboord comes one, and ſayes,</l>
+               <l>I long to ſet my feet on ſhore, where cloudy pillar ſtayes,</l>
+               <l>As high as clouds he darts his words, but it is earth he wants:</l>
+               <l>For having paſt the fiſhing banks, ſoon ſmels the gay ground plants,</l>
+               <l>In long boat with a ſcouring pace comes gentle-like attended,</l>
+               <l>New faſhion'd by the Taylors hand, one for his parts commended.</l>
+               <l>Maſter at laſt quoth he, I'm not with labour much inured,</l>
+               <l>Yet for to countenance good folk this toyl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be endured.</l>
+               <pb n="4" facs="tcp:125896:4"/>
+               <l>Hee's loath to ſay, that men of parts to govern towns are wanting,</l>
+               <l>And therefore he will through the ſeas, 'mongst others to be planting.</l>
+               <l>His Cabin is too ſtrait, his fare too mean for his degree,</l>
+               <l>Now good Sir be content a while, on ſhore youl' he more free.</l>
+               <l>Eftſoones comes clambring up the ropes one in his mind revived,</l>
+               <l>That hee's no ſervant, quoth he, this was very well contrived,</l>
+               <l>Now I may goe where I can cloſe with people and with Preacher,</l>
+               <l>But its great wages makes him cloſe, for there he needs no teacher.</l>
+               <l>Brief dancing on the decks doth walk another boaſting ſore</l>
+               <l>Of godly kindred, and he longs to be with them on ſhore,</l>
+               <l>Theſe and the like may England ſpare, but oh it's ſad to ſay,</l>
+               <l>That privatly for publick work thy Worthies went away.</l>
+               <l>Sage, ſober, grave and godly men, together counſell ſeeking</l>
+               <l>At th'hand of God, they faſt and pray for their approved liking:</l>
+               <l>And will not ſtirre one foot, but by his word and will directing,</l>
+               <l>So on the ſeas moſt happily they found his hand directing.</l>
+               <l>Now large Revennewes hinder not, hoopt up in hogſheads they</l>
+               <l>Tranſport both lands and houſes too, nine hundred leagues away.</l>
+               <l>Oh we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l away, now ſay the poore, our Benefactors going,</l>
+               <l>That fild our childrens mouths with bread, look yonder are they rowing</l>
+               <l>O woe is me another cries, my Miniſter, its hee,</l>
+               <l>As ſure as may be, yonder he from Purſevant doth flee.</l>
+               <l>With trickling tears, ſcarce uttering ſpeech, another ſobbing ſayes,</l>
+               <l>If our poore preacher ſhipped be, hee'l nere live halfe the way,</l>
+               <l>But one poore friend, another cries, my ſecret heart to plain,</l>
+               <l>And he and his are ſhipped, now I'le after him amain.</l>
+               <l>'Mongſt theſe doth Satan get a fraught, Angels of light they ſeeming,</l>
+               <l>Were entertain'd among the reſt, as holy Saints them deeming.</l>
+               <l>Hardly beſet on every ſide, Gods people thus attended,</l>
+               <l>To troublous ſeas betake themſelves, yet by their God befriended.</l>
+               <l>In ſtraits to get their goods aboord, their wives and obildren ſmall,</l>
+               <l>Hard to attaine a cleering thought, cleerely diſmiſt of all.</l>
+               <l>But God and godly friends, whom they find in their hard-ſhips free,</l>
+               <l>To ſend and lend them help in all, their great calamity.</l>
+               <l>The boyſterous waves begin to hoyſe their brittle barques on hye,</l>
+               <l>When ſuddenly the billowes breake, and daſh their ſhips awry.</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nwonted to ſuch wondrous workes the little babes complaine</l>
+               <l>For harbour in their Mothers armes, whom ſickneſſe doth conſtraine</l>
+               <l>To ſit as helpleſſe, yea, for help of others they doe cry,</l>
+               <l>But all ſea-ſicke for preſent, all do others help deny.</l>
+               <pb n="5" facs="tcp:125896:4"/>
+               <l>Each corner's fill'd with goods and folke, the ſhips large womb could bear,</l>
+               <l>That hot diſeaſes breed among, this crowd, no roome to ſpare</l>
+               <l>For any weake ones, nor for thoſe, whoſe fruit was ripe for light,</l>
+               <l>On ſoundleſſe depths their babes are borne 'mongſt waves above ſhips hight.</l>
+               <l>Both aged, weake, and tender ones the ſeas now tumbling toſſe,</l>
+               <l>Till they I fore'd to harbour turn'd, with ſtormy windes being croſt.</l>
+               <l>In weſtern <hi>Anglia,</hi> and the Iſle <hi>Hibernia</hi> they bide,</l>
+               <l>With longing for <hi>Jehova's</hi> help, who only windes doth guide.</l>
+               <l>As loft to loſe the laſt long ſight of their deare native ſoile,</l>
+               <l>Both back and forth the winds them drive, with mickle reſtleſſe toyle.</l>
+               <l>But being once in Ocean large, where depths the earth wide ſever,</l>
+               <l>Returne no more, though winds them croſſe, to end their courſe indere.</l>
+               <l>In unknown depths, and pathleſſe Seas, there nights and days they ſpend,</l>
+               <l>'Mongſt ſtormy winds &amp; mountain waves long time no land they kend.</l>
+               <l>At ſhips maſt doth Chriſts Paſtors preach, while waves like Prelats proud,</l>
+               <l>Would ſling them from their pulpits place as not by them allow'd.</l>
+               <l>The ſwelling ſurges raging come to ſtop their mouths with fome,</l>
+               <l>For publiſhing of every truth that by Gods word is known.</l>
+               <l>But Chriſt as once, ſo now ſayes peace waves, and be ſtill,</l>
+               <l>For all their height they fall downe flat, obey they muſt his will.</l>
+               <l>And now the Seas like medowes greene, whoſe ground and graſſe even are,</l>
+               <l>Doth gently lead their ſhips as ſheep from place to place afar.</l>
+               <l>Who would not wait on ſuch a God, that heaven, earth, ſeas commands,</l>
+               <l>To ſerve his folke, then ſerve him folke, conducted by his hand.</l>
+               <l>For forty, fifty, ſixty dayes and nights they ſafely ſwim,</l>
+               <l>Preparing oft for fight, at ſight of ſhips that pirats been.</l>
+               <l>Long looke'd for land at length the eye, unknown, yet owne they will,</l>
+               <l>To plant therein new Collonies, wide wilderneſſe to fill.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of the arrivall of our Engliſh Nation at the Mattachuſets Bay, &amp;c.</head>
+            <lg>
+               <l>WIth hearts revived in conceit, new land and trees they eye,</l>
+               <l>Senting the Caedars and ſweet ferne from heats reflection drye.</l>
+               <l>Much like the bird from dolſome Romes inclos'd in cage of wyre,</l>
+               <l>Set forth in fragrant fields, doth skip in hope of her deſire.</l>
+               <l>So leap the hearts of theſe mixt men by ſtreights o're ſeat inured,</l>
+               <l>To following hard ſhips wilderneſſe, doth force to be endured.</l>
+               <pb n="6" facs="tcp:125896:5"/>
+               <l>In clipping armes of ont-ſtretcht Capes, there ſhips now gliding enter,</l>
+               <l>In bay where many little Iſles doe ſtand in waters Center.</l>
+               <l>Where Sea-calves with their hairy heads gaze 'bove the waters brim,</l>
+               <l>Wondring to ſee ſuch unconth ſights their ſporting place to ſwim.</l>
+               <l>The ſeas vaſt length makes welcome ſhores unto this wandring race,</l>
+               <l>Who now found footing freely for, Chriſts Church his reſting place.</l>
+               <l>This people landing, ſoonly ſhewd diverſity of minds,</l>
+               <l>As various heads, ſo actions did declare their divers kinds.</l>
+               <l>Now patience, <hi>John,</hi> give eare a while unto a briefe digreſſion,</l>
+               <l>The better ſhalt thou underſtand the following progreſſion.</l>
+               <l>Diverſity of cenſure have paſt on this people, why</l>
+               <l>Moſt judge the whole by leſſer part, and parts run much awry.</l>
+               <l>By parts the giver, nor to part, and thou a part ſhalt ſee,</l>
+               <l>To be partakers with the truth in hearts ſimplicity.</l>
+               <l>Yet further let me mind thee more from Satans ſullin fits,</l>
+               <l>Great rancour doth againſt them riſe, enlarg'd by divers wits.</l>
+               <l>Yea male-contents none well content but diſcontentedly,</l>
+               <l>They breath out ill, being croſt in will to all lamentingly.</l>
+               <l>But now let's on my honeſt <hi>John,</hi> to land this people came,</l>
+               <l>'Mongſt trees and men that naked been, whom labour did not tame.</l>
+               <l>Small entrance did they make therein, for why diſeaſes ſtay,</l>
+               <l>Their long unwonted legs to walke, in wilderneſſe the way.</l>
+               <l>In booths and huts lamenting lye, both men and women eake,</l>
+               <l>Some breathing out their lateſt breath, and others faintly ſpeak.</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto their friends for ſuccour ſoone that ſtrength they might recover,</l>
+               <l>Which once attain'd, they ſearch the land, tracing the Countrey over.</l>
+               <l>To raiſing Townes and Churches new, in wilderneſſe they wander,</l>
+               <l>Firſt <hi>Plymouth,</hi> and then <hi>Salem</hi> next, were placed far aſunder.</l>
+               <l>
+                  <hi>Charles</hi> river where they nextly land, a Towne like name they built</l>
+               <l>Poore Cottages them populate, with winters wet ſoone ſpilt.</l>
+               <l>Brave <hi>Boſton</hi> ſuch beginning had, <hi>Dorcheſter</hi> ſo began,</l>
+               <l>
+                  <hi>Roxbury</hi> roſe as mean as they, <hi>Cambridge</hi> forth from them ran.</l>
+               <l>
+                  <hi>Lin</hi> likewiſe built, when <hi>Watertowne</hi> firſt houſes up did reare,</l>
+               <l>Then large limb'd <hi>Ipſwich</hi> brought to eye 'mongſt woods &amp; waters cleer.</l>
+               <l>
+                  <hi>Hartford, New-haven,</hi> ſcituate, <hi>Sandwich</hi> and <hi>Dover</hi> all,</l>
+               <l>In wilderneſſe 'mongſt people wilde, there Scituations fall,</l>
+               <l>
+                  <hi>Newbery, Weymouth, Hingham, Hall,</hi> have their firſt nomination,</l>
+               <l>Rude Iſland Providence brought forth by baniſhed their ſtation.</l>
+               <l>
+                  <hi>Springfield, Hamlton, Concord, eke Deddam</hi> and <hi>Rowly, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>New peopled in this Weſtern world, where lands lye waſt and free.</l>
+               <pb n="7" facs="tcp:125896:5"/>
+               <l>
+                  <hi>Salisbury, Sudbury,</hi> both began, to bore the Land, and plant,</l>
+               <l>
+                  <hi>Braintre, Gloceſter, Exeter,</hi> plac'd where the wilde beaſts haunt.</l>
+               <l>
+                  <hi>Wooborn, Wickham, Redding</hi> built, with little ſilver mettle,</l>
+               <l>
+                  <hi>Andover, Haverhill, Berri's-banks,</hi> their habitations ſettle.</l>
+               <l>
+                  <hi>Southampton, Martins-vineyard,</hi> and ſome new nam'd Towns beſide,</l>
+               <l>All by this brood of travellers, were peopled far and wide.</l>
+               <l>With what they had ſtord'd up for time of ſcarcity, they live,</l>
+               <l>Till tubs were empty, and the Land, could them ſmall ſuccour give.</l>
+               <l>God ne're denyes them freſh ſupplyes, with joy oft ſhips they eye,</l>
+               <l>That bring in bread &amp; meate for food when in thoſe ſtraights they cry.</l>
+               <l>Till labour bleſſe the earths encreaſe, and food each Towne doth fill,</l>
+               <l>The land being ſowne with man and beaſt, great ſtore retaining ſtill.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>A briefe deſcription of the Land, Beaſts, Birds, Trees, and Fruits.</head>
+            <lg>
+               <l>VNlevel'd lies this land new found with hills and vallies low,</l>
+               <l>With many mixtures of ſuch mold where fruits do firtile grow.</l>
+               <l>Well watered with the pleaſant ſprings that from the hills ariſe,</l>
+               <l>The waters run with warbling tunes, with ſtones that in them lies.</l>
+               <l>To welcome weary travellers, reſting unneath the ſhade,</l>
+               <l>Of lofty banks, where lowly boughs, for them freſh harbour made.</l>
+               <l>The leſſer Rivelets rent themſelves into a wider way,</l>
+               <l>Where ſcouring torrents furious fall, through rocks their ſtreames doe ſtray.</l>
+            </lg>
+            <lg>
+               <head>SPRING.</head>
+               <l>AT end of <hi>March</hi> begins the Spring, by <hi>Sols</hi> new elivation,</l>
+               <l>Sealing away the earths white robe, dropping with ſweats vexation.</l>
+               <l>The Codfiſh, Holybut, &amp; Baſſe, do ſport the rivers in,</l>
+               <l>And Alle wiſes with their crowding ſholes, in every creek do ſwim.</l>
+               <l>Leaving their ſpawn in ponds to thrive 'mongſt Pikes devouring jawes.</l>
+               <l>That ſwallow Trowts, Tench, Roach and Breme into their greedy mawes.</l>
+               <l>Pirch, Shad, and Eeles, there plenty full the panyard and the pan,</l>
+               <l>Smelts, Lobſters, Crab-fiſh, pranes and ſhrimps, with cockles muſſels clams.</l>
+               <pb n="8" facs="tcp:125896:6"/>
+               <l>Plenty of oyſters overgrow the flowed lands ſo thick,</l>
+               <l>That thouſand loads to lime are turn'd, to lay faſt ſtone and brick.</l>
+               <l>The Cormorants with greedy gut full faſt the fiſhes follow,</l>
+               <l>And Eagles with their piercing ſight look through the waters ſhal<g ref="char:EOLhyphen"/>low.</l>
+               <l>Ducks, Hens, and Pheaſants often row upon the waters brim,</l>
+               <l>With plenty of their fellow fowles to welcome in the Spring.</l>
+               <l>Devouring fires burning black the earths old ruſty hew,</l>
+               <l>Like torch-bearers in gloomy night, their flames with wind ſore flew.</l>
+               <l>Like Phoenix rare, from aſhes old, of graſſe, doth graſſe ariſe,</l>
+               <l>The earth caſts off her mourning coate, gay clad like bride to eyes.</l>
+               <l>With herbs and divers precious plants for phyſicks operation,</l>
+               <l>Diverſity of fragrant flowers for ſences recreation.</l>
+            </lg>
+            <lg>
+               <head>SOMMER.</head>
+               <l>BEſpread with Roſes Sommer 'gins take place with haſty ſpeed,</l>
+               <l>Whoſe parching beate Strawberries coole doth moderation breed.</l>
+               <l>Ayre darkening ſholes of pigeons picke their berries ſweet and good,</l>
+               <l>The lovely Cherries birds entice, to feaſt themſelves in woods.</l>
+               <l>The Turkies, Partridge, Heath-hens and their young ones tracing paſſe,</l>
+               <l>The woods and medowes, Achorn eat, and hoppers in the graſſe.</l>
+               <l>Like <hi>Virgils</hi> knat musketo flies with buzzy humming dare</l>
+               <l>Aſſault the ſtouteſt with long trunke, both blood and bliſters reare.</l>
+               <l>When little lineaments the Sun, or winde doth feeble make</l>
+               <l>Yea cooling dewes their ſwarms allay, and ſtrength of ſtinging ſlake.</l>
+               <l>The little hum birds ſucking ſweet, from flowers draw their food,</l>
+               <l>Humilities in ſommer-time only find livelihood.</l>
+            </lg>
+            <lg>
+               <head>A<g ref="char:V">Ʋ</g>T<g ref="char:V">Ʋ</g>MNE.</head>
+               <l>GOod wholſome and delightfull food, variety &amp; ſtore,</l>
+               <l>The Husband-man rejoycing keeps, with fruit the earths wombe boare.</l>
+               <l>Peas plenty, Barley, Oats and wheat, Rye richly ſtocking ſtands,</l>
+               <l>Such ſtore the plough-man late hath found, that they feed forreign lands.</l>
+               <l>Cucumbers, mellons, apples, peares, and plums do flouriſh faire,</l>
+               <l>Yea what delight and profit would, they ſtill are adding there.</l>
+               <l>Sixe ſorts of Oakes the land affords, Walnuts doe differ ſo,</l>
+               <l>That divers ſhapes their fruit retains, and food that in them grow.</l>
+               <l>Roots are not wanting, wild and tame, in gardens they encreaſe,</l>
+               <l>Ground nuts, ground beans, not gathered till, warmth doth the earth releaſe.</l>
+               <l>Grapes wanting vintage, common grow, fit for the travellers hand,</l>
+               <l>With food from berries multitude, that grow throughout the land.</l>
+            </lg>
+            <pb n="9" facs="tcp:125896:6"/>
+            <lg>
+               <head>WINTER.</head>
+               <l>SHarpe, ſudden, yet with lightſome looks doth winters cold come in,</l>
+               <l>With thicke, large Coat doth cloath the earth, both ſoft, ſmooth, white and trim.</l>
+               <l>The large tempeſtuous ſurges are bound in with frozen band,</l>
+               <l>Where ſhip did anker, men doe walke, and carts as on the land.</l>
+               <l>The Geeſe flye prating night and day, to tell the approaching ſeaſon,</l>
+               <l>Brought downe by gun ſhot from their flight unto the Indians geſon.</l>
+               <l>The tumbling beares intrapped are, mongſt houſes ſudden enter,</l>
+               <l>O'rethrowne by eager hunters, who purſue them in this venter.</l>
+               <l>The tripping Deer with length of leaps, do burſt through frozen ſnow,</l>
+               <l>Hunters purſue with bracket ſhooes, at length they weary grow.</l>
+               <l>Then down the dogs them ſudden draw, expos'd to hunters pleaſure,</l>
+               <l>Their fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh well welcome, and their skins, are chiefe of Indian treaſure.</l>
+               <l>Whole kennels of devouring wolves both Deer and Swine deſtroy,</l>
+               <l>Yet ſcar'd by weakeſt children, they them the leſſe annoy.</l>
+               <l>The Suns bright preſence moſt dayes doth cheere man and beaſt with joy,</l>
+               <l>With hope of pleaſant ſprings approach to free from colds annoy.</l>
+               <l>With mineralls the earth is fraught, though Alcumiſts are wanting,</l>
+               <l>Which makes current mettle priz'd 'mongſt Merchants daily ſcanting.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of their building, planting, and giving out of LANDS.</head>
+            <lg>
+               <l>DElightfull to the eye did lye the woods and medowes greene,</l>
+               <l>The paths untrod by man and beaſt, both ſmooth and clenly ſeene.</l>
+               <l>Moſt men unlanded till this time, for large lands Eages ſue,</l>
+               <l>Had not reſtraint knockt of their bands, too big their fermes had grew.</l>
+               <l>Give eare I pray unto the praiſe ſet on a new Plantation,</l>
+               <l>Firſt for the medow ſirs ſays one, I have found ſuch a ſtation.</l>
+               <l>Where graſſe doth grow as high as I, round ſtalkes and very thicke,</l>
+               <l>No haſſocks but a bottom plain, Carts cannot therein ſtick.</l>
+               <l>Salt bay and freſh there thouſands are of acres I do deeme,</l>
+               <l>A gallant barbour there's for ſhips the beſt that yet is ſeene.</l>
+               <l>Boates may come up unto our doors, the Creeks convenient lye,</l>
+               <l>Fiſh plenty taken in them are, plains plowable hard by.</l>
+               <l>No buſh nor roots to hinder them, yet ſtately timber is,</l>
+               <l>In every ſwamp, yea uplands too, moſt clobberd trees I wis.</l>
+               <pb n="10" facs="tcp:125896:7"/>
+               <l>Clay there for bricke and tile, pot-earth with eaſe, and ſtore,</l>
+               <l>Some men ſuppoſe black lead is there, ſilver and copper o're.</l>
+               <l>Carry but guns, and wild fowle will be brought unto our diſhes,</l>
+               <l>Veniſon and Mooſe you there may catch according to your wiſhes.</l>
+               <l>All creatures thrive exceeding well, Goats, Swine, and ſheep for meat,</l>
+               <l>Horſe, Cows, and Calves encreaſe as well, ther's ſtore of <hi>Engliſh</hi> wheat.</l>
+               <l>Five, ſeven, or nine old Planters doe take up their ſtation firſt,</l>
+               <l>Whoſe property is not to ſhare unto themſelves the worſt.</l>
+               <l>Their Cottages like Crows neſts built, new commers goods attain,</l>
+               <l>For mens accommodation ſake, they truck their ſeats for gaine.</l>
+               <l>Come buy my houſe, here may you have, much medow at your dore,</l>
+               <l>'Twill dearer be if you ſtay till, the land be planted o're.</l>
+               <l>See you that garden plat inclos'd, Pumkins there hundreds are,</l>
+               <l>Parſnips and Roots, with Cabiges, grow in great plenty there.</l>
+               <l>Lay out an hundred pound or two, you ſhall have ſuch a ſeat,</l>
+               <l>When you have planted but one crop, you cannot want for meate.</l>
+               <l>This praiſe doth make the purchaſer his gold and ſilver throw,</l>
+               <l>Into his hand for houſe and land that yet he did not know.</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nſeen, and yet ſudden bought, when once the ſale was ended,</l>
+               <l>His purchaſe makes him miſſe of more, with gifts he's not befriended.</l>
+               <l>One he hath friends to praiſe his parts, his lot ſhall larger be,</l>
+               <l>For uſefull men are highly priz'd, ſuch ſhall ſell two or three.</l>
+               <l>Sure much miſtaken, towns have been, for many have made prize,</l>
+               <l>Get all they can, ſell often, than, and thus old Planters riſe.</l>
+               <l>They build to ſell, and ſell to build, where they find towns are planting,</l>
+               <l>Till men no more the Sea paſſe o're, and Cuſtomers are wanting.</l>
+               <l>Then thoſe that boaſt their townes were full for company are longing,</l>
+               <l>Who lately fear'd land would fall ſhort, when men to them came thronging.</l>
+               <l>Inſatiate minds for medow, and beſt land they could attain,</l>
+               <l>Hath cauſed Townes, land lay by lot, I wiſh it were not vaine.</l>
+            </lg>
+         </div>
+         <div type="account">
+            <head>Of their Civill Government</head>
+            <p>THe Tranſplantation of this people and patten inrevaded, (though rare yet) honeſt advice in law was had by wiſe, ſo<g ref="char:EOLhyphen"/>ber, and godly Gentlemens, fore-ſeeing the daily adding ſtones to ſuch a work, would be more envyed then the Golden fleece of <hi>Cal<g ref="char:EOLhyphen"/>chos.</hi> God giving favour, they attain'd a large patten under the bro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Seale of <hi>England,</hi> to ſet up government, not only for the or<g ref="char:EOLhyphen"/>derly
+<pb n="11" facs="tcp:125896:7"/>execution of judgment and juſtice among themſelves, but for the ſuppreſſing of all malignant adverſaries to the kingdome of Chriſt, that at any time ſhould invade or diſturb this government: for proofe ask their adverſaries, who though <hi>Doeg</hi> like will tel you both Magiſtrates and Miniſters joyne heart and hand herein, yet the latter meddle not with Civill Juſtice, as ſome would beare men in hand: But lets on, this patten hath proved corraſive to ſome, eſ<g ref="char:EOLhyphen"/>pecially in not admitting appeales: Some ſeeking to have it reca'd; others crying out it's forfeit, yet hitherto held, and meet men year<g ref="char:EOLhyphen"/>ly choſe for Governour, Deputy, and Aſſiſtants, (whoſe acts of juſtice have paſſed ſundry cenſures) as alſo from each Towne two Deputies are ſent in the name of the Free-men, who joyning toge<g ref="char:EOLhyphen"/>ther in one body or generall Court, have according to their patten made many Cauſes agreeable to the word of God, and their wil<g ref="char:EOLhyphen"/>derneſſe condition both for Engliſh and Indian to follow. Quarter Seſſion, or Goale-delivery are kept by ſeven Magiſtrates, the Go<g ref="char:EOLhyphen"/>vernour or Deputy being one: as alſo in the ſeverall Shires for try<g ref="char:EOLhyphen"/>als between man and man, are conſtant Courts kept, and in every Town certain perſons are yearly choſen to end cauſes of leſſer ver<g ref="char:EOLhyphen"/>tue, with free acceſſe for any perſons that finde themſelves grieved, to appeal from one Court to another, even to the higheſt, which is the generall Court. Their laws are of three ſorts; 1. The lawes of <hi>England,</hi> ſo far as the people and place can be capable. 2. Lawes wholly of their own. 3. When caſes fall out, that neither of theſe will reach, they are to follow ſuch rules as are cleerly drawn from the word of God: and becauſe many men take upon them to in<g ref="char:EOLhyphen"/>terpret the Scriptures now adays: ſo that inſtead of one of a thou<g ref="char:EOLhyphen"/>ſand, there appears a thouſand to one, which makes them endea<g ref="char:EOLhyphen"/>vour (with the ableſt gifted men God hath given them) to obtaine poſitive lawes: for all matters may come in judgment, that Arbitra<g ref="char:EOLhyphen"/>rineſſe may be avoided. And now becauſe the courage, dexterity, and skill of Commanders appeareth moſt when they meete with their enemie: know foure ſorts of perſons have battered this go<g ref="char:EOLhyphen"/>vernment not only with their greater Artillery, at 900. leagues di<g ref="char:EOLhyphen"/>ſtance, but with continuall ſmall ſhot at 10. or 12. and ſometimes at piſtoll-ſhot, raiſing over-topping batteries, breſt-works, &amp; out<g ref="char:EOLhyphen"/>facing Galleries, delving deepe to undermine the foundation (though built on the ſureſt rocke) caſting forth fierce fireing gra<g ref="char:EOLhyphen"/>nadoes, uſing all the ſtratagems ſuch cunning Engineers could poſ<g ref="char:EOLhyphen"/>ſibly
+<pb n="12" facs="tcp:125896:8"/>invent. The firſt onſet was given by <hi>Bonaſoſias</hi> under the con<g ref="char:EOLhyphen"/>duct of their hoſt of Merri-mount, who having ſome tryals in the Courts of Juſtice, aſſaid to mend his bad cauſe with bribes: but finding repulſe in both, began to make uſe of an Engine for battery called <hi>Pontifieatus</hi> (conſulting with ſuch as were beſt skil'd herein) to beate downe this new erected government, yet did little dam<g ref="char:EOLhyphen"/>mage it, being of ſmall force in theſe <hi>American</hi> parts: at length was intreated to depart, which he refuſing, was ſhipt with a takele for the fertile Iſle of great Brittain, which thoſe Gentlemen now ru<g ref="char:EOLhyphen"/>ling this Collony ſo loſtly left, where he arriving, made his com<g ref="char:EOLhyphen"/>plaint to thoſe, whoſe lordly injunctions enforced the greater part of this people to make choiſe of a baniſhed condition for them and theirs, enduring rather the wants of a wilderdeſſe, than a Prelats priſon his (complaint being heard) appeales to <hi>England,</hi> being of purpoſe left out in the Mattachuſets Patten, no Somner nor Purſe<g ref="char:EOLhyphen"/>vant was found to venter ſo far: yet the Hoſt to make a merriment of the departure of ſo many reverend, learned, godly and judicious men (a ſad Omen of ſome following tragedy) ſet forth a Pam<g ref="char:EOLhyphen"/>phlet in print, full fraught with loud lies to make his <hi>Bonaſoſia's</hi> laugh. But prevailing little, ventured another voyage in theſe parts to find a new place for ſtorming this government afreſh, tracing the Countrey to and fro, was apprehended of Indian ammunition, ar<g ref="char:EOLhyphen"/>row heads of a more mortal nature than any yet uſed among them. The ſecond onſet was given by greater troops of Sexs, not mar<g ref="char:EOLhyphen"/>ſhal'd under the command of any one in chief: but thoſe that could beſt uſe their battering Engine, were leaders of the reſt: and verily they handled the matter ſo, that they came to handy gripes undiſ<g ref="char:EOLhyphen"/>covered: their new Engine was called <hi>Populatri aure Captator,</hi> ſome<g ref="char:EOLhyphen"/>what like the Trojan horſe for rarity, it was covered with womens aprons, and bolſtered out with the judgement and deep diſcerning of the godly and reverent: but to ſay truth, they fouly belied him; Theſe Sectaries having made a breach in moſt Townes in the coun<g ref="char:EOLhyphen"/>trey, publiſhing as through a trunk the great tyranny of thoſe that rule over their own ſpecies, perſwading Authority is ſo farre from maintaining liberty, that they cannot ſtand together: inſomuch that Governours and governed began to wonder at the ſudden al<g ref="char:EOLhyphen"/>teration in Courts and countrey: ſo that it would have put an a<g ref="char:EOLhyphen"/>ble Politick to a non-plus. But the Lord graciouſly aſſiſting, they couragiouſly goe on, firſt unarming all ſuſpected perſons: and then
+<pb n="13" facs="tcp:125896:8"/>to prevent the ſpreading of this gangrin, they endeavour the diſ<g ref="char:EOLhyphen"/>perſing of this red Regiment. Some at loſſe of eſteeme voluntarily depart, others were baniſhed, and others with-drawing ſubmitted againe to the godly government of this Common wealth.</p>
+            <p>The third ſtorm this government felt was from the ſcum of the former under the command of <hi>Samuel Gorton,</hi> who knowing ſome of his Sectaries were cloſely lurking behind in this government; ſent forth his blaſphemies to thunder downe all government as diabolicall, raging and railing againſt Magiſtrates and generall Courts, as murtherers, abſolving from their obedience all ſuch as would follow their opinion; had not the conceitedneſſe of their own elegancy hindered, they might have done much hurt, their leader being a very dangerous, bold-ſpoken fellow, and full of ſawning; with which, having gained ſome 12. or 13. families to cide with him, inforcing land from the poore <hi>Indians</hi> by meanes of the moſt potent Sachim of thoſe parts, under whoſe friendſhip they bare themſelves bold againſt the united Colonies, building on the Indians land, having outed themſelves from all governe<g ref="char:EOLhyphen"/>ment, would not ſubmit to any law or common reaſon, deſperate<g ref="char:EOLhyphen"/>ly going on, threatning bloud and death to any ſhould come to ap<g ref="char:EOLhyphen"/>prehend them; Yet at length were handſomely apprehended with<g ref="char:EOLhyphen"/>out one drop of bloud ſpilt, for all their great boaſter, brought to a generall Court, and there proceeded againſt: yet ſo ſlenderly (their offence being very deſtructive to all government: And of ſuch an high nature) that their malice encreaſing, their Cenſure did but exaſperate, and not at all diſinabled them to proſecute as formerly the great diſturbance, if not overthrow of this little com<g ref="char:EOLhyphen"/>mon-wealth; theſe perſons yet remain, battering the united Colo<g ref="char:EOLhyphen"/>nies with all the force they are able to make: and as they deny go<g ref="char:EOLhyphen"/>vernment among Chriſtians, ſo they endeavour to overthrow one government with another.</p>
+            <p>The 4<hi rend="sup">th</hi> onſet was made by a Doctor of phyſick, as Commander in chiefe, with ſixe other inferiour Officers, who pretended they had thouſands on their ſide: &amp; therefore to muſter up al the force they could, proclaim (at a generall Court) themſelves to be leaders to all diſcontented perſons, who diſliked any thing this govern<g ref="char:EOLhyphen"/>ment had done (plauſable to all the ſtragling <hi>Bonaſoſia</hi>'s and Prela<g ref="char:EOLhyphen"/>ticall faction, that had hid themſelves in holes ſince the former bickering) and furniſhing them with freſh weapons, teaching them
+<pb n="15" facs="tcp:125896:9"/>to diſſemble, as if ſiding with <hi>Englands</hi> government, promiſing to themſelves the procurement of all the old Ceremonies and odds Holidayes. Next this blacke Regiment, appeared a red Regiment of fiery contentious perſons, who for want of their wils againſt their adverſaries in law, make many ſad complaints; and now are perſwaded, could they but caſt down this government, they ſhould have ſuch laws, Lawyers, and Magiſtrates, that the caſe would goe alway on their ſide, whether Plaintiffe or defendant. In order fol<g ref="char:EOLhyphen"/>lowed a white Regiment, conſiſting of ſundry Sectaries, in hope of attaining liberty, or rather liſcentiouſneſſe; were this government but once ſuppreſt to bring up the reare: under an Enſigne part, ar<g ref="char:EOLhyphen"/>gent part, or colour, lappeared two ſorts of people: the one dee<g ref="char:EOLhyphen"/>ming it a way for encreale of trade, not only to blind-fold Juſtice, but ſtay her ſword from falling on the heads of ſuch as could cover their crime with pretence of conſcience: The other poſſeſt with ſtrong conceits, that if this government were not caſt down, they ſhould never come to govern. Thus furniſhed, they made ſtrong oppoſition, ſome of them boaſting what a day they ſhould get: but their great numbers failing them, and in ſtead of thouſands, there appeared not thirty: and further being apprehended in midſt of their project, were impriſoned, and fined forther folly: yet but little in reſpect of their offence. Only thus much ſome have learned, to ſhew ſo much clemency to their adverſaries, that it proves cru<g ref="char:EOLhyphen"/>elty to their friends. What faithfulneſſe, courage and juſtice in all theſe paſſages have been ſhewed by thoſe in authority, cannot be waned by the reproachfull words, and piercing lookes of pale<g ref="char:EOLhyphen"/>fac'd envy. And now my friend <hi>John,</hi> when thou heareſt any up<g ref="char:EOLhyphen"/>braiding, deriding, condemning, and exclaiming againſt this go<g ref="char:EOLhyphen"/>vernment of this little Common-wealth, for my ſake examine them before thou believe them, and you ſhall find them to have fled from one of theſe Regiments, or at leaſt a wel-willer of theirs that could have wiſht them the day: And now to end this ſlender touch of their Civill government, eye this following meeter.</p>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>TO populate this howling deſart Land,</l>
+               <l>The only worke is of <hi>Jehovah's</hi> band.</l>
+               <l>Contemn no weakeſt meanes in hand of him:</l>
+               <l>See here his worke by meanes that weakeſt been.</l>
+               <l>In thrice five yeares a Common-wealth compleat,</l>
+               <l>For peace, for war, for actions ſmall and great.</l>
+               <pb n="14" facs="tcp:125896:9"/>
+               <l>Five hundred Lawes for peoples plaine direction,</l>
+               <l>
+                  <hi>Englands</hi> addition as naturall Connection.</l>
+               <l>Preſt to oppoſe haters of peace: with guide</l>
+               <l>Of Officers, three Regiments abide.</l>
+               <l>In <hi>Middleſex</hi> ſeven Enſigns are diſplaid,</l>
+               <l>There diſciplin'd by Major <hi>Sedgwick's</hi> aide.</l>
+               <l>In <hi>Suffolk</hi> nine, by Major <hi>Gibbons</hi> led,</l>
+               <l>
+                  <hi>Eſſex</hi> and <hi>Norfolk</hi> in one are marſhalled,</l>
+               <l>By <hi>Deniſon,</hi> their Major in the field,</l>
+               <l>Their Generall a yearly choiſe doth yeild.</l>
+               <l>Eight times a yeare each band inſtructed is,</l>
+               <l>And once to meet in one they may not miſſe.</l>
+               <l>Both Horſe &amp; Foot, force, forts and Caſtles are,</l>
+               <l>Prepar'd in peace for peace, yet fit for War.</l>
+               <l>To awe bruit men, Juſtice impartially,</l>
+               <l>Hath hitherto with pale ſuſpitious eye,</l>
+               <l>Diſperſt the crimes common in many Lands,</l>
+               <l>Diſgrace for vice, honour for vertue ſtands.</l>
+               <l>Now notice take, this is the grand complaint,</l>
+               <l>That <hi>Engliſh</hi> here from priviledg'd reſtraint,</l>
+               <l>Have: why I pray, you'l priviledg confound,</l>
+               <l>If common they with lawrell all not crown'd.</l>
+               <l>For trades, commerce, Merchants, Sea-affaires,</l>
+               <l>Great freedoms bad, large gaines their loſſe repaires.</l>
+               <l>Monopolies is by their lawes forbid,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nleſſe invention rare from others hid.</l>
+               <l>All handy-crafts have choiſe of worke at will,</l>
+               <l>And ordered are, leſt working praiſe they ſpill.</l>
+               <l>As ſhipping great, built up by timbers ſtrength,</l>
+               <l>But iron mills their chains of greater length.</l>
+               <l>Salt, ſope and glaſſe, Tiles, lime and bricke are made,</l>
+               <l>With orders for well-ordering each Trade.</l>
+               <l>So ſuted hath his providence, that none.</l>
+               <l>Can contradict: envy of any one</l>
+               <l>Shall not prevaile, Juſtice and peace ſhall ſtill,</l>
+               <l>Perfect this worke, govern for God they will.</l>
+               <l>For hutbandry, Corne, Cattell, wood and bay,</l>
+               <l>Good lawes are made for all men to obey.</l>
+               <l>Liſten a while, I muſt ſpend one word more,</l>
+               <l>Some rubs remaine, are hardlier gotten o're.</l>
+               <pb n="16" facs="tcp:125896:10"/>
+               <l>Bipartior in many Court and Cauſe,</l>
+               <l>Doth dull the edge of Juſtice, Sword and Lawes.</l>
+               <l>Diſcloſeth Counſels, opens Breaches wide,</l>
+               <l>That adverſe part ſteps in without a guide.</l>
+               <l>Makes cauſes good or bad, as men affect it,</l>
+               <l>Doth what's oppos'd, and what is lik't neglect it.</l>
+               <l>Tells liberty, authority will ſtop,</l>
+               <l>And clip her wings, quoth ſhe, I'le ſit on top.</l>
+               <l>Tells men their cauſe is good, but wanting</l>
+               <l>Lawes: or Judges are in learn'd, in ſight ſeanting.</l>
+               <l>More yet remaines, ſwift ſpeakers ſhow but backe,</l>
+               <l>So counſels loſt words will not fill a ſack.</l>
+               <l>And now ſay truth doth not great skill appear,</l>
+               <l>Through ſuch tempeſtuous ſeas and ſtormes to ſteere.</l>
+               <l>So ſwiftly one grapling with Pirats oft,</l>
+               <l>For <hi>England</hi> fain'd, bearing their flag aloft.</l>
+               <l>To <hi>England</hi> yet, ungratefull they'l not be,</l>
+               <l>That governe here, yet little help they ſee.</l>
+               <l>The more's to come, experience teaches ſure,</l>
+               <l>You'l pitty more, when you the like endure.</l>
+               <l>More yet you'l find our enemies are yours,</l>
+               <l>You'l hurt your ſelves if you encreaſe their powers.</l>
+               <l>Forgive, that they ſo much your good forget,</l>
+               <l>Lighter to truth, thoſe they ſhould harder hit.</l>
+               <l>If <hi>England</hi> one as truths but one embrace,</l>
+               <l>Theſe tooke your name, and you will take their eaſe.</l>
+               <l>If <hi>England</hi> ſay more wayes then one they wilt</l>
+               <l>Allow no more then helps reforming ſtill.</l>
+               <l>Thoſe that are skild in ſtructures modell, make,</l>
+               <l>A little moddel here is for you, take</l>
+               <l>What may ſerve turne for oppoſites to awe,</l>
+               <l>For Kings may rule without a Biſhops law.</l>
+               <l>Could Biſhops keepe downe all their Lordſhips ſpoile,</l>
+               <l>And can't higheſt Court awe thoſe Gods word defile.</l>
+               <l>With blaſphemous horrid interpretation,</l>
+               <l>As only they knowing Gods explanation.</l>
+               <l>Ruine now men ſtrive, with words contentious ſtrength,</l>
+               <l>
+                  <hi>New-Englands</hi> acts ſhall ſpeak, not words at length.</l>
+               <l>While fogs ariſe from errour breaching braines,</l>
+               <l>Their juſtice clouded is, and what remaines.</l>
+               <pb n="17" facs="tcp:125896:10"/>
+               <l>But unto God that they commit their way,</l>
+               <l>And judgment ſhall burſt forth as ſunny day.</l>
+               <l>Let <hi>England</hi> wait with patience for the ſame,</l>
+               <l>Not drawing backe for coſt, finiſh for ſhame.</l>
+               <l>Iaſt Prelates proud tollerating deride,</l>
+               <l>Ye know not truth without their guide.</l>
+            </lg>
+         </div>
+         <div type="account">
+            <head>Of the planting of the Goſpel of our Lord Chriſt in the Mattachuſets, and other adjacent COLLONIES.</head>
+            <p>WHen theſe perſecuted ſervants of Chriſt Jeſus firſt ſet foot on theſe American ſhores, having their tongues untied from the Prelates Injunctions, they preach with all diligence to their Auditors, doubling their hours to regain their loſt time, being throughly warm'd with the manifeſtation of the love of their Lord Chriſt, in bearing them in his arms through the boyſtrous waves, a depthleſs Ocean; theſe exil'd Mi<g ref="char:EOLhyphen"/>niſters of Chriſt ſoon began to gather into Churches, as meete ſtones were offered; and now you ſhall ſee how they haſted after fat Benefi<g ref="char:EOLhyphen"/>tes, every one endeavouring to aſſociate themſelves with plain honeſt-hearted Chriſtians rich in grace, the Lord aſſiſting: with full purpoſe of heart to cleave unto the Lord Chriſt, and ſubmit to his kingdome according to the rule of his word made known unto them: and alſo to exhort one another while it is called to day, (and this is the ſubſtance of that Church-covenant that ſo many are greived at;) this they doe with ſolemne and ſerious ſeeking of the Lord by prayer &amp; faſting. And now I beſeech you all that rightly love the Lord Chriſt, forbeare taking up any prejudice againſt this poor people from the report of o<g ref="char:EOLhyphen"/>thers. Could your eyes and eares ſee &amp; heare their comely order, and with what ſpirituall expreſſions the Lord aſſiſts his ſervants in the Mi<g ref="char:EOLhyphen"/>niſtry, it would aſſuredly (God helping) cauſe your bowels to yern to<g ref="char:EOLhyphen"/>ward them &amp; the Churches to which they doe belong: many of whom hereafter are expreſſed by name, together with their annuall mainte<g ref="char:EOLhyphen"/>nance ſo neere, as for the preſent I could gather. Only take notice <hi>New Englands</hi> pounds in ſome things cal'd currant pay, will hardly hold out with old <hi>England</hi> Angells, and yet will they not be gone from their flockes for thicker fleeces, unleſſe example prove prejudiciall to others.</p>
+            <pb n="10" facs="tcp:125896:11"/>
+            <list>
+               <item>
+                  <hi>Salem:</hi> Mr. Hugh Peters <hi>(in Engl.)</hi> Mr. Edw. Norris, 60. pound</item>
+               <item>
+                  <hi>Charles Town:</hi> M. <hi>Zach. Sims,</hi> 90. l. Mr. <hi>Tho. Allen</hi> 60. l.</item>
+               <item>
+                  <hi>Boſton:</hi> Mr. John Cotton, 90. l. M. John Wilſon 60 l.</item>
+               <item>Roxbury: M Thomas Wells. <hi>(in England)</hi> 80. l.</item>
+               <item>
+                  <hi>Dorcheſter:</hi> M. Richard Mathers, 70. l.</item>
+               <item>
+                  <hi>Watertown:</hi> M. Fran. Knowles, 80 l.</item>
+               <item>
+                  <hi>Linne:</hi> M. Sam. Whiting, 45. l. M. Tho. Cobbit, 45 l.</item>
+               <item>
+                  <hi>Ipſwich:</hi> M. Nat. Rogers 70. l. M. John Norton, 70. l.</item>
+               <item>
+                  <hi>Hingham:</hi> M. P. Hubbert, 60. l.</item>
+               <item>
+                  <hi>Waymouth:</hi> Mr. Tho. Thatcher, 50 l.</item>
+               <item>
+                  <hi>Rowly:</hi> M. Ezek. Rogers, 80. l. M. Sam. Mathers, 30. l.</item>
+               <item>
+                  <hi>Cambridge:</hi> M. Tho. Sheppard, 70. l.</item>
+               <item>
+                  <hi>Deddam:</hi> M. John Allen, 50. l.</item>
+               <item>
+                  <hi>Concord:</hi> M. Buckly, 70. l.</item>
+               <item>
+                  <hi>Salisbury:</hi> M. Th. Woſter, 45. l.</item>
+               <item>
+                  <hi>Newberry</hi> M. Tho. Parker, 40. l. M. Jam. Noyſe, 60. l.</item>
+               <item>
+                  <hi>Hampton:</hi> M. Boulton, 40. l.</item>
+               <item>
+                  <hi>Sudbury:</hi> M. Edm. Browne, 40. l.</item>
+               <item>
+                  <hi>Braintree:</hi> M. Henry Flint, 30. l. M. Wil. Tompſon, 30. l.</item>
+               <item>
+                  <hi>Dover:</hi> M. Dan. Maud, 40. l.</item>
+               <item>
+                  <hi>Gloſter:</hi> M. Richard Blindman, 40. l.</item>
+               <item>
+                  <hi>Wooborn:</hi> M. Tho. Carter, 60. l.</item>
+               <item>
+                  <hi>Redding:</hi> M. <hi>Green,</hi> 30. l.</item>
+               <item>
+                  <hi>Wenham:</hi> M. David Tisk, 20. l.</item>
+               <item>
+                  <hi>Harerhill: Mr.</hi> John Ward.</item>
+               <item>
+                  <hi>Andover: Mr.</hi> Woodbridge.</item>
+            </list>
+            <p>Theſe 26. Churches are in the government of the <hi>Mattachuſets,</hi> beſides theſe Townes following: <hi>Mancheſter, (Mr. Smith:) Hull, (Mr. Matthews:) Exeter (Mr. Norcraft:) Strawbery Banks (St. Batelie. New Medowes, (Mr. Knight,)</hi> who is gone to <hi>England.</hi>
+            </p>
+            <p>The Worthies of the other Colonies I omit, all men of eſteeme: Theſe are men choſen to office by the people, and ordained in preſence of one or two magiſtrates, together with the Elders and meſſengers of as many Churches as may conveniently ſend, who are as ſo many faithfull witneſſes to the orthodox judgement, and pious life of ſuch as are to teach the people; which Elders and meſſengers in the name of their Churches, hold out the communion and fel<g ref="char:EOLhyphen"/>lowſhip they deſire to have with them.</p>
+            <p>Since <hi>Englands</hi> troubles, theſe Churches have been very frequent in extraordinary ſeeking of the Lord, with much affection, faſting
+<pb n="11" facs="tcp:125896:11"/>and praying, not without teares and ſtrong cries for an happy Iſſue to the glory of God, and the good of his people. In admit<g ref="char:EOLhyphen"/>ting perſons to the ſacramentall union, they endeavour to ſee the manifeſtation of Gods grace wrought upon their ſouls, expreſſed by their godly lives and converſations, either by continued obſer<g ref="char:EOLhyphen"/>vance, or honeſt teſtimony, they are admitted by the Elders, with conſent of the people; and all excommunications are by the ſame authority of the Elders, and conſent of the people, in the name of the Lord Jeſus Chriſt adminiſtred to the terror of ſcandalous profeſſors. As for prayer, ſinging of Pſalmes, and the word prea<g ref="char:EOLhyphen"/>ched, all are partakers of: and all children and ſervants in pub<g ref="char:EOLhyphen"/>lick catechiſed, and verely the thirſting deſires they have that all may come to the truth, even as it is in Jeſus, appeares by the af<g ref="char:EOLhyphen"/>fable and courteous carriage of all that preach the word, being inſtant in ſeaſon and out of ſeaſon, &amp;c. who are reputed both learned and judicious, and by Gods bleſſing on their labours, have gained many a ſoule to Chriſt. The people of theſe Colonies are generally labor ous after knowledge in religion, to which end they have ſocieties, or neighbourly invitatations each of other, for edification; in which the induſtrious paines and care of their miniſter to propagate the truth, appeares, praying and opening the Scriptures thus privatly, beſides all their publick adminiſtra<g ref="char:EOLhyphen"/>tions. This truth may ſerve to ſhew the ſavourineſſe of this ſalt: And now to take away the wonder how theſe miniſters and peo<g ref="char:EOLhyphen"/>ple ſhould come by ſo many back friends, walking in mea<g ref="char:EOLhyphen"/>ſure ſo inoffenſively, you ſhall underſtand, holineſſe, righte<g ref="char:EOLhyphen"/>ouſneſſe, humility, and learning in ſome called of Chriſt to be a<g ref="char:EOLhyphen"/>ble miniſters of his word and doctrine; divers, who love the pre<g ref="char:EOLhyphen"/>heminence of both ſexes, having taken a trick to preach to ad<g ref="char:EOLhyphen"/>vance themſelves, began to inveigh againſt learning, Scholars, and Colledges, and in mean time ſtretching out what themſelves had, till they rent into non-ſenſe, and verily theſe ſoon grew to a round company praiſing one anothers parts when others would not; and to cauſe others to admire them, they queſtion the anci<g ref="char:EOLhyphen"/>ent truths taught by their miniſters, and that before the whole congregation, and tell you the meaning of the originall Text. Theſe were abler to diſcerne (as they apprehend) than their El<g ref="char:EOLhyphen"/>ders, who were fit for the Sacrament, delighting to ſhew their skill that way. Again, all know nothing is more oppoſite than damnable errors and ſaving truth. Now the unanimous agree<g ref="char:EOLhyphen"/>ment
+<pb n="10" facs="tcp:125896:12"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:125896:12"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:125896:13"/>of their teaching Elders in the truth, hath cauſed thoſe who are contrary minded, to miſreport their words and actions, cun<g ref="char:EOLhyphen"/>ningly caſting falſe gloſſes on their doctrines, ſlighting all thoſe godly Chriſtians who agree in the fame truths, as weak punies, taking up all they have on truſt. Further, take notice that our <hi>Engliſh</hi> nation having been accuſtomed after 16 yeares of age, to receive the Sacrament: now ſome here in theſe Colonies being upon good ground denied, with bitter ſpeeches, and taunting lan<g ref="char:EOLhyphen"/>guage, upbraid both magiſtrates, miniſters and people, powring out their complaints into their boſoms who are their good frends in <hi>England,</hi> telling they are abridged of the liberties of <hi>Engliſh</hi> ſub<g ref="char:EOLhyphen"/>jects, &amp;c. Laſtly, certain perſons more affecting trade than truth, prove diſcontented with ſuch as are againſt the ſufferi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g groſſe errors. Theſe are the rubs have been caſt in the way to hinder the through reformation; yet now, though with great difficulty, nearer accompliſhed than ever, if luke-warm liberty hinder not the good work of our God. And as for theſe inſtruments whom the Lord hath made uſe of, you marre the work, if you attribute ought unto them, and it will be very diſtaſtfull to their Chriſtian appetites; yet I will ſhew their proſecuting the work in the fol<g ref="char:EOLhyphen"/>lowing meeter.</p>
+            <lg>
+               <l>VVHat creature man that is ſo apt to take</l>
+               <l>His praiſe, who work and workman both did make,</l>
+               <l>In telling of theſe Worthies work then I</l>
+               <l>Own none but God, and yet his meanes I eye,</l>
+               <l>Who though nine hundred leagues at ſea, hath ſent</l>
+               <l>Theſe twenty Worthies, who their time have ſpent</l>
+               <l>In preaching Chriſt, his mind and will reveale</l>
+               <l>From Scripture light each ſervants portion deale.</l>
+               <l>One opens Propheſies as yet to come,</l>
+               <l>So ready is the Scripture in his tongue.</l>
+               <l>That word and ſenſe his memory retaines,</l>
+               <l>Cleare Scripture light, all by great labour gaines.</l>
+               <l>One hewes the cords of wicked works with ire-</l>
+               <l>Full Arguments as God doth him require.</l>
+               <l>One pretious Balm from Chriſts deare ſufferings fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Wounded to heale; if heale to faſt, then frets</l>
+               <l>Down the proud fleſh from thought of knowledge riſing,</l>
+               <l>Till Chriſt alone they know, him onely prizing.</l>
+               <pb n="21" facs="tcp:125896:13"/>
+               <l>One Sheppard he takes reſtleſſe pains that none</l>
+               <l>Themſelves delude with happy ſtate as one</l>
+               <l>Belov'd of God in Chriſt, and therefore makes</l>
+               <l>Cleare evidence from Gods word, whom he takes,</l>
+               <l>And wholly bent to ſave his flock from rearing,</l>
+               <l>With watchfull eye 'way ſheep ſlaying Wolves is ſcaring.</l>
+               <l>One labours faith may get aſſurance faſt,</l>
+               <l>One he exhorts the anchor, hope to caſt.</l>
+               <l>One follows peace, and bids all folk purſue it,</l>
+               <l>One's for freſh love, and when it's old renew it.</l>
+               <l>One puts in minde with patience to abide,</l>
+               <l>One ceaſe from ſtrife, take meekneeſſe on your ſide.</l>
+               <l>One to humility exhorts with care,</l>
+               <l>One wills their lives may paſſe in godly feare.</l>
+               <l>One cheerfull bids in ſpirits joy to cheere.</l>
+               <l>One would men mourn with thoſe are mourners here.</l>
+               <l>One bounty doth by his example teach,</l>
+               <l>One zeal to God and's truth doth daily preach.</l>
+               <l>One heavenly mindedneſſe perſwadeth ſtill,</l>
+               <l>One Chriſtian boldneſſe ſeated in the will.</l>
+               <l>One purity and holineſſe commends,</l>
+               <l>One's for juſt dealing both with foes and friend.</l>
+               <l>One he exhorts all Chriſtian watch to keep,</l>
+               <l>One prayer would with ſighes and groanes ſo deep.</l>
+               <l>One unto reading Scripture men perſwades,</l>
+               <l>One labour bids for food that never fades.</l>
+               <l>One to redeem their time exhorteth all,</l>
+               <l>One looking round, for wary walking calls.</l>
+               <l>One he perſwades m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n buy the truth, not ſell,</l>
+               <l>One would men ſhould in moderateneſſe excell.</l>
+               <l>One for renew'd <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epentance daily ſtrives,</l>
+               <l>One's for a conſcience cleare in all mens lives.</l>
+               <l>One he exhorts all men Gods word to heare,</l>
+               <l>One doth beſeech to lend obedient eare.</l>
+               <l>One he deſires evils appearance ſhun,</l>
+               <l>One with diligence would all ſhould be done.</l>
+               <l>One ſhewes their woe that will not God believe;</l>
+               <l>One doth beſeech Gods Spirit they'l not grieve.</l>
+               <l>One wiſhes none to deep deſpair do run,</l>
+               <l>One bids beware none to peſumption come.</l>
+               <pb n="14" facs="tcp:125896:14"/>
+               <l>One wils that all at murmuring take heed,</l>
+               <l>One ſhewes that ſtrife and envie ſhould not breed.</l>
+               <l>One ſhewes the hatred God to pride doth beare,</l>
+               <l>One covetouſneſſe cries down with belliſh feare.</l>
+               <l>One to luke-warmneſſe wiſhes none doe grow,</l>
+               <l>One none for feare forſake the truth they know.</l>
+               <l>One idle talk and fooliſh jeſting ſhun,</l>
+               <l>One bids that none unto uncleanneſſe run.</l>
+               <l>One ſayes, none ſhould ſelf-ſeeking entertain,</l>
+               <l>One teaches all in anger ſhould contain.</l>
+               <l>One idleneſſe dehorts with meekle paine,</l>
+               <l>One bids beware of error-breaching brains.</l>
+               <l>One would all men ſurfets exceſſe take heed,</l>
+               <l>One worlds joy and ſorrow doe not exceed.</l>
+               <l>One ignorance would not mens ſoules ſhould ſtay,</l>
+               <l>One in known ſins bids men they would not ſtay.</l>
+               <l>One wiſhes none of Faith doe ſhipwrack make,</l>
+               <l>One their firſt love in Chriſt, that none forſake.</l>
+               <l>One in their breaſt would none two hearts ſhould beare,</l>
+               <l>One woe of hypocrites doth oft declare.</l>
+               <l>One bids beware, hardneſſe of heart will breed,</l>
+               <l>One, to adde ſin to ſin that none proceed.</l>
+               <l>One lying tongues doth tell God hateth ſuch,</l>
+               <l>One bids beware, for Satans wiles are much.</l>
+               <l>One ſayes gainſt all, power from Chriſt is had,</l>
+               <l>One bids all be with's armour ever clad.</l>
+               <l>I name but one, 'cauſe all as one the ſame,</l>
+               <l>Exhort, dehort, in the Lord Chriſt his Name,</l>
+               <l>Minding all ſtill it's Chriſt his will that all</l>
+               <l>Depart from ill, that on Gods Name doe call.</l>
+               <l>And further they profeſſe that Chriſt alone,</l>
+               <l>Works <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll in his, and for his every one.</l>
+               <l>So grace is free, and nothing we to cauſe</l>
+               <l>The cords of love with which Gods Spirit drawes.</l>
+               <l>Which Spirit plainly doth appeare in all</l>
+               <l>Theſe preachings that from ear then lips doe fall</l>
+               <l>Like d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw on graſſe, however ſome deny it</l>
+               <l>As legall they: from Gods word doe thou try it.</l>
+               <l>And neighbour <hi>John,</hi> yet one thing more now mind,</l>
+               <l>Their learned counſell helps the truth to finde.</l>
+               <pb n="15" facs="tcp:125896:14"/>
+               <l>Coupling theſe men in Synods God hath bleſt.</l>
+               <l>By his word truth is found, error confeſt.</l>
+               <l>As helpfull unto godly learning they,</l>
+               <l>With Schooles and Colledge, finde out learnings way.</l>
+            </lg>
+            <p>Theſe people, though much weakned in their eſtates, for the ſpace of ten yeares, yet have erected Schooles in divers Townes, and alſo a Colledge in the Town of <hi>Cambridge,</hi> called <hi>Harves</hi> Colledge: The Preſident being an able Proficient in the Tongues, very ſtudious to promote learning, witneſſe the young Audients both here and gone for <hi>England,</hi> hopefull inſtruments in the hands of the Lord for future times: the Preſident is Mr. <hi>Dunſter.</hi>
+            </p>
+            <lg>
+               <l>Yet unto God this people feeling ſayes,</l>
+               <l>Not unto us, but to thy name be praiſe.</l>
+               <l>Now muſt I mind what hindrances remain</l>
+               <l>To blaſt the fruit of all theſe Worthies pain.</l>
+               <l>Some would none ſhould endevour unity,</l>
+               <l>Tyrants (ſay they) do hinder liberty:</l>
+               <l>Why truth's but one, and Chriſt will make you free,</l>
+               <l>Come to the Word, let that your touch-ſtome bee.</l>
+               <l>Some feare Presbytery hath too great power,</l>
+               <l>If you are Chriſts, then all they have is yours.</l>
+               <l>Some odd ones ſay they <hi>Independents</hi> are,</l>
+               <l>Therefore in others counſel they'l noe ſhare</l>
+               <l>But now Ile end, and tell you friend, what will</l>
+               <l>Perſwade their way do<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>old with ſtill.</l>
+               <l>Strong Arguments doe papers fill each way</l>
+               <l>With words of heat: bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> honeſt <hi>Iohn</hi> now ſtay,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto experience let thy judgement bow,</l>
+               <l>Let actions ſpeake, and not mens words to you.</l>
+               <l>For little time, ſome ſubtile Foxes will</l>
+               <l>Bridle their nature, and yet Foxes ſtill.</l>
+               <l>Lord Biſhops did ſome errors fend from ſheep,</l>
+               <l>So beaſts of prey others from preying keep.</l>
+               <l>Some new raiſd errors Biſhops power deny</l>
+               <l>To ſide with truth, and yet their error eye.</l>
+               <l>Neare twenty yeares theſe Churches you may trace</l>
+               <l>In godly ſteps, no falſe way they'l embrace.</l>
+               <pb n="24" facs="tcp:125896:15"/>
+               <l>Look in this glaſſe that thus is ſlubberd or'e,</l>
+               <l>And you may ſee foure things uneyd before.</l>
+               <l>No Prelate no King: that's not ſo, for ſee</l>
+               <l>Here Churches power and command agree,</l>
+               <l>Of civill power to which theſe Churches yeeld</l>
+               <l>Humble obedience, as their duty held.</l>
+               <l>Next note, ſome ſay, Opinions none muſt touch,</l>
+               <l>For feare they wrong the conſciences of ſuch,</l>
+               <l>With word of truth, God helping true endeavours,</l>
+               <l>Chriſts Paſtor here error and conſcience ſevers.</l>
+               <l>Third, Law and Goſpel at ſuch oddes have ſet,</l>
+               <l>That Rule of walking from it none may get.</l>
+               <l>But here experience from Gods word is found,</l>
+               <l>Gods folk with's word walk wary, looking round.</l>
+               <l>Laſt, humane learning is no mean, ſome ſay;</l>
+               <l>Bloſt by the Lord, to find his word and way,</l>
+               <l>But as a meanes this people found it have,</l>
+               <l>Yet truſt not means, its onely God muſt ſave.</l>
+               <l>But England now to thee Il'e means commend,</l>
+               <l>Make uſe of theſe before their life they end.</l>
+            </lg>
+            <p>The grave, godly, and judicious Mr. <hi>Hooker</hi> is laid in earth Mr. <hi>Philips,</hi> Mr. <hi>Huet,</hi> Mr. <hi>Harver,</hi> and ſome others of like eſteem yet remaining in the united Colonies, of name and note: Onely my friend <hi>John,</hi> ſee here a ſhort obſervation taken from the whole for thy own uſe.</p>
+            <lg>
+               <l>Church-covenant Band brought in with liberty,</l>
+               <l>But cauſeth men to walk licentiouſly.</l>
+               <l>Some buy the truth: for conſcience liberty,</l>
+               <l>Error's brought in to blind men damningly.</l>
+            </lg>
+            <p>And now before I end, let me tell thee who are like to reap be<g ref="char:EOLhyphen"/>nefite by tranſporting themſelves to thoſe Colonies: Firſt, Mer<g ref="char:EOLhyphen"/>chants who are skild in commerce with forraigne nations, lying near the Indies, and well ſtored with ſhip proviſion cheaper than <hi>England.</hi>
+            </p>
+            <p>Secondly, Sea-men are well imploid, if skild in Navigation, ſhipping increaſing every day, and would be farre more, had they Maſters to manage the work.</p>
+            <pb n="25" facs="tcp:125896:15"/>
+            <p>Thirdly, Has band-men are like to benefit themſelves much all ſorts of cattell increaſing exceedingly, and tillage proſpering, that thouſands of Acres are broken up yearly.</p>
+            <p>Fourthly, all manuall occupations are falling into their ranks and places daily, (onely Printers of Cards, and Dice-makers, I could wiſh to forbeare,) very few but have increaſed in the riches of this life; and further how now men of eſtates may im<g ref="char:EOLhyphen"/>prove what they have to their great advantage. And this I dare aſſure that one hundred pounds will doe that which five hundred could not doe at firſt planting of this little Common-wealth, which was the reaſon ſo many ſunk in their eſtates; but now they ſee it too late, and ſome will not wait the Lords leaſure for re<g ref="char:EOLhyphen"/>pairing, but forſake their ſtation, with others have gained much, and carry it to other places to ſhew, and ſo loſe it again. But my <hi>Iohn,</hi> be thou more ſtable.</p>
+            <p>Laſt, let all thoſe who deſire to have themſelves diſcovered to themſelves, reſort to this place; where, if they ſeek not them<g ref="char:EOLhyphen"/>ſelves they may finde themſelves, if not already loſt in ſelfe-con<g ref="char:EOLhyphen"/>ceitedneſſe of ſome ſtrong opinion, for which if they deſire to be admired, let them leave this long voyage, and keep at home.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
